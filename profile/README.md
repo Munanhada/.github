@@ -1,12 +1,12 @@
 ## Hi there 👋
 문안하다 서비스 입니다!
-<!--
 
-**Here are some ideas to get you started:**
+문안하다 서비스는 서로의 무난한 일상을 응원하고 확인하는 부모 X 자녀 소통 SNS 입니다. 
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+젊은 세대일수록 디지털에 접근성이 높고 디지털 간 의사소통과 상호작용에 굉장히 친숙합니다. 그러나 부모 세대 일수록 전통적인 커뮤니케이션 방법을 선호합니다. 이러한 차이는 추후에 양극 단 디지털 소통 격차를 일으키며 더 나아가 세대 간 갈등과 몰이해를 초래하고 있습니다. 모르는 사람과도 손쉽게 디지털로 소통하는 반면에 정작 소통이 필요한 가까운 관계의 부모X자녀간에 디지털 소통은 잘 일어나지 않아 디지털 격차는 소통의 격차를 불러 일으킵니다. 저희는 이러한 디지털 격차의 해소를 해결하고자 부모 X 자녀의 소통 쌍방향 SNS 서비스를 기획했습니다.
+
+문안하다 서비스의 주요 기능은 
+1. 부모와 자녀 서로에게 보내는 문안 인삿말
+2. 문안 인삿말의 선택지를 제공
+3. 오늘 하루 문안했는지 건강, 기분을 묻는 질문을 통해 나의 오늘 하루 돌아보기 기능
